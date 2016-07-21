@@ -40,7 +40,7 @@ function encodeWaveForm (rate, duration, notes) {
 
   buffer = new Buffer(waveForm);
 
-  fs.writeFile("sinewave.dat", buffer, function (err) {
+  fs.writeFile("./data/sinewave.dat", buffer, function (err) {
   	if (err)
   		return console.log(err);
   });

@@ -1,8 +1,8 @@
 var fs = require("fs");
 
 function decipher() {
-	var numberArr = fs.readFileSync('./bealeciphernums.txt', 'utf-8').split(", "),
-	    declarationArr = fs.readFileSync('./bealecipher.txt', 'utf-8').split(" ").filter(function (elem) {
+	var numberArr = fs.readFileSync('./data/bealeciphernums.txt', 'utf-8').split(", "),
+	    declarationArr = fs.readFileSync('./data/bealecipher.txt', 'utf-8').split(" ").filter(function (elem) {
 					return (elem !== '.'); // remove random period
 				});
 
