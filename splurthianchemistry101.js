@@ -1,3 +1,5 @@
+// https://redd.it/4savyr
+
 // The inhabitants of the planet Splurth are building their own periodic table of the elements. Just like Earth's periodic table has a chemical symbol for each element (H for Hydrogen, Li for Lithium, etc.), so does Splurth's. However, their chemical symbols must follow certain rules:
 
 //    * All chemical symbols must be exactly two letters, so B is not a valid symbol for Boron.

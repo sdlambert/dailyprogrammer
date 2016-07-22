@@ -1,3 +1,5 @@
+// https://redd.it/4o74p3
+
 // Input Description
 
 // You will be given a sample rate in Hz (bytes per second), followed by a duration for each note (milliseconds), and then finally a string of notes represented as the letters A through G (and _ for rest).

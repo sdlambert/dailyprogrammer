@@ -1,3 +1,5 @@
+// https://redd.it/4oylbo
+
 // Description
 
 // Scrabble is a popular word game where players remove tiles with letters on them from a bag and use them to create words on a board. The total number of tiles as well as the frequency of each letter does not change between games.
