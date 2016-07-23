@@ -11,6 +11,7 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 * [[Easy] Gold and Treasure: The Beale Cipher][5]
 * [[Easy] Splurthian Chemistry 101][6]
 * [[Intermediate] Splurthian Chemistry 102][7]
+* [[Easy] Recktangles][8]
 
 [a]: https://www.reddit.com/r/dailyprogrammer
 [1]: https://redd.it/4nvrnx
@@ -20,3 +21,4 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 [5]: https://redd.it/4r8fod
 [6]: https://redd.it/4savyr
 [7]: https://redd.it/4so25w
+[8]: https://redd.it/4tetif
