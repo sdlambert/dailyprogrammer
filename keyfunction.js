@@ -1,3 +1,5 @@
+// https://redd.it/4tqy5c
+
 // key(
 
 //  elements:  an array/list of stuff. number of items is leading array dimension,

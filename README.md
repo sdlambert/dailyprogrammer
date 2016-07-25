@@ -12,6 +12,7 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 * [[Easy] Splurthian Chemistry 101][6]
 * [[Intermediate] Splurthian Chemistry 102][7]
 * [[Easy] Recktangles][8]
+* [[Intermediate] Key Function][9]
 
 [a]: https://www.reddit.com/r/dailyprogrammer
 [1]: https://redd.it/4nvrnx
@@ -22,3 +23,4 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 [6]: https://redd.it/4savyr
 [7]: https://redd.it/4so25w
 [8]: https://redd.it/4tetif
+[9]: https://redd.it/4tqy5c
