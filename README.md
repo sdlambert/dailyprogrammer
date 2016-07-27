@@ -13,6 +13,7 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 * [[Intermediate] Splurthian Chemistry 102][7]
 * [[Easy] Recktangles][8]
 * [[Intermediate] Key Function][9]
+* [[Easy] Transpose Text][10]
 
 [a]: https://www.reddit.com/r/dailyprogrammer
 [1]: https://redd.it/4nvrnx
@@ -24,3 +25,4 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 [7]: https://redd.it/4so25w
 [8]: https://redd.it/4tetif
 [9]: https://redd.it/4tqy5c
+[10]: https://redd.it/4msu2x
