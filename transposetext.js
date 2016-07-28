@@ -68,11 +68,9 @@ function transpose(contents) {
 		}
 	}
 
-	swapped = swapped.map(function (i) {
+	return swapped.map(function (i) {
 		return i.join("");
 	});
-
-	return swapped;
 }
 
 function padRight(len, str) {
