@@ -83,7 +83,7 @@ function key (elements, keys, applyFunc) {
 	return applyFunc(elements, keys);
 }
 
-function histogram (elements, keys) {
+function histogram (elements) {
 	var histMap = new Map();
 
 	elements.forEach(function (i) {
