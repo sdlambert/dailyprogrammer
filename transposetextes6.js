@@ -35,19 +35,18 @@
 
 // Note that the lower left character is a space in the output, but nothing in the input.
 
-var fs = require("fs");
+let fs = require("fs");
 
 function transpose(contents) {
 
-	var lines = contents.split("\n"),
-	    longest,
+	let lines = contents.split("\n"),
 	    swapped = [],
 	    i, j;
 
 	lines = lines.filter(i => i !== '')
     .map(i => i.trimRight());
 
-	longest = lines.map(i => i.length)
+	const longest = lines.map(i => i.length)
     .reduce((i, j) => Math.max(i, j));
 
 	lines = lines.map(i => padRight(longest, i).split(""));
@@ -64,7 +63,7 @@ function transpose(contents) {
 }
 
 function padRight(len, str) {
-  var limit = len - str.length;
+  let limit = len - str.length;
 
   while (limit !== 0) {
   	str += " ";
