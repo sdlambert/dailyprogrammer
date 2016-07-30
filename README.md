@@ -14,6 +14,7 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 * [#275 [Intermediate] Splurthian Chemistry 102][275I]
 * [#276 [Easy] Recktangles][276E]
 * [#276 [Intermediate] Key Function][276I]
+* [#277 [Easy] Simplifying Fractions][277]
 
 [a]: https://www.reddit.com/r/dailyprogrammer
 [270]: https://redd.it/4msu2x
@@ -26,3 +27,4 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 [275I]: https://redd.it/4so25w
 [276E]: https://redd.it/4tetif
 [276I]: https://redd.it/4tqy5c
+[277]: https://redd.it/4uhqdb
