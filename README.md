@@ -4,6 +4,7 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 
 ## Daily programmer solutions
 
+* [#258 [Easy] Making a Connection][258]
 * [#270 [Easy] Transpose Text][270]
 * [#271 [Easy] Critical Hit][271E]
 * [#271 [Intermediate] Making Waves][271I]
@@ -17,6 +18,7 @@ This repo contains my solutions to some of the challenges presented on [/r/daily
 * [#277 [Easy] Simplifying Fractions][277]
 
 [a]: https://www.reddit.com/r/dailyprogrammer
+[258]: https://redd.it/4ad23z
 [270]: https://redd.it/4msu2x
 [271E]: https://redd.it/4nvrnx
 [271I]: https://redd.it/4o74p3
